@@ -1,4 +1,4 @@
-# Hummingbird Frontend Test Starter App
+np# Hummingbird Frontend Test Starter App
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 First up you will need [NodeJS](https://nodejs.org/en/) installed on your system to run the build tools & test runner.
 
+
+# Future Farm Technical Test
+
+## Notes
+ - UI is rudimentary but works
+ - Tests are incomplete because I needed more time to work out how to test react-leaflet components
 
 ## Getting Started
 
@@ -29,8 +35,3 @@ Run unit tests
 npm test
 ```
 
-Mapping is set up with React-Leaflet read more about it and the underlying Leaflet.js below
-- https://github.com/PaulLeCam/react-leaflet
-- http://leafletjs.com/
-
-Happy coding

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders crop selection form correctly 1`] = `
+<form>
+  <h4>
+    test field
+       
+    <span
+      className="yield"
+    >
+      Yield £50
+    </span>
+  </h4>
+  <select
+    onChange={[Function]}
+    value={1}
+  >
+    <option
+      value=""
+    >
+      No crop selected
+    </option>
+    <option
+      value={0}
+    >
+      Winter rice
+       (£
+      NaN
+      )
+    </option>
+    <option
+      value={1}
+    >
+      Summer oats
+       (£
+      NaN
+      )
+    </option>
+  </select>
+</form>
+`;

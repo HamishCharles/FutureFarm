@@ -1,17 +1,12 @@
-np# Hummingbird Frontend Test Starter App
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-## Prerequisits
-
-First up you will need [NodeJS](https://nodejs.org/en/) installed on your system to run the build tools & test runner.
-
-
 # Future Farm Technical Test
 
 ## Notes
  - UI is rudimentary but works
  - Tests are incomplete because I needed more time to work out how to test react-leaflet components
+
+## Prerequisits
+
+First up you will need [NodeJS](https://nodejs.org/en/) installed on your system to run the build tools & test runner.
 
 ## Getting Started
 

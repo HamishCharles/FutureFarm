@@ -4,7 +4,7 @@
  - UI is rudimentary but works
  - Tests are incomplete because I needed more time to work out how to test react-leaflet components
 
-## Prerequisits
+## Prerequisites
 
 First up you will need [NodeJS](https://nodejs.org/en/) installed on your system to run the build tools & test runner.
 
